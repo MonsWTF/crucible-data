@@ -1,6 +1,6 @@
 parentID=1600
 pattern
-numObjects=16
+numObjects=15
 1598
 1599
 1316
@@ -10,7 +10,6 @@ numObjects=16
 1835
 1836
 1837
-1848
 2123
 2449
 2725
