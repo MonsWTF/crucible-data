@@ -1,5 +1,5 @@
-id=1522
-Track Cart#moving East
+id=21160
+Track Cart#moving East left south
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
